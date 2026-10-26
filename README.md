@@ -1,5 +1,13 @@
 # CareBoard
 
+   **Live demo:** https://careboard-alpha.vercel.app (login: `doctor` / `doctor123`)
+
+<img width="1914" height="906" alt="Screenshot_1" src="https://github.com/user-attachments/assets/db0bd7c9-908e-41f5-a9e0-12e27a1bdf74" />
+
+<img width="1919" height="904" alt="Screenshot_2" src="https://github.com/user-attachments/assets/97886c10-017e-47c0-8f9a-bce51470615e" />
+
+<img width="1917" height="915" alt="Screenshot_3" src="https://github.com/user-attachments/assets/f256b0da-2e6d-4a4d-8950-e885015d93a9" />
+
 A real-time patient monitoring dashboard built with **Angular 18** and **PrimeNG**.
 It runs entirely in the browser with simulated vital signs, so there is nothing to set up besides Node.
 
